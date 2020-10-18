@@ -1,0 +1,13 @@
+.header {
+  @include wrapper;
+  width: 100%;
+  max-width: 1400px;
+}
+
+.header__location {
+  width: 216px;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.26px;
+  margin-left: auto;
+}
